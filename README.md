@@ -13,6 +13,11 @@
 
 - BEM: http://getbem.com/
 - Styled Components: https://styled-components.com/docs/basics
+- Reactstrap: https://reactstrap.github.io/
+
+<h3>Data Visualization</h3>
+
+- React Charts: https://www.npmjs.com/package/react-charts
 
 <hr />
 
