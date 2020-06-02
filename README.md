@@ -19,6 +19,10 @@
 
 - React Charts: https://www.npmjs.com/package/react-charts
 
+<h3>Optimization</h3>
+
+- React Lazy Hydration: https://github.com/hadeeb/react-lazy-hydration
+
 <hr />
 
 by <a href="https://www.linkedin.com/in/daniele-carta-lugano/?locale=it_IT">Daniele Carta</a>
