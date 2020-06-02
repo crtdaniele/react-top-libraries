@@ -1,0 +1,11 @@
+{
+  "name": "react-top-libraries",
+  "version": "1.0.0",
+  "description": "A lists of top libraries for ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniele Carta",
+  "license": "ISC"
+}
