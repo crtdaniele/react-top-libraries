@@ -25,4 +25,4 @@
 
 <hr />
 
-by <a href="https://www.linkedin.com/in/daniele-carta-lugano/?locale=it_IT">Daniele Carta</a>
+<a href="https://www.linkedin.com/in/daniele-carta-lugano/">Follow me in LinkedIn</a>
